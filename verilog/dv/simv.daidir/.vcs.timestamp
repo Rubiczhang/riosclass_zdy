@@ -1,0 +1,196 @@
+2        
+0 params.vh
+0 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/etc/systemverilog/params.vh
+49
++define+SYNTHESIS+COMMIT_LOG+HEX_FILE=""/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/elf2hex/rv64ui-p-andi.hex""
++error+10
++incdir+/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src
++itf+/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/vcsdp_lite.tab
++lint=PCWM-L
++lint=TFIPC-L
++vc+list
++vcs+flush+all
++vcs+lic+wait
++vcsd1
++vpi
++vpi
+-F /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/../flist.f
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libvirsim.so /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/liberrorinf.so /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libsnpsmalloc.so /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/opt/cad/synopsys/installs/verdi/Q-2020.03-SP2/share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/include
+-Mxllcflags=
+-P
+-Xufe=2steps
+-debug_access+all
+-fsdb
+-full64
+-gen_obj
+-kdb
+-o simv
+-picarchive
+-q
+-sverilog
+-timescale=1ns/1ps
+-top
+-v2k_generate
+/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/bin/vcs1
+simv
+hehe_tb
+/opt/cad/synopsys/installs/verdi/Q-2020.03-SP2/share/PLI/VCS/LINUX64/verdi.tab
+/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/../flist.f
+88
+_LMFILES_=/etc/modulefiles/mpi/mpich-3.2-x86_64
+XILINX_HOME=/opt/cad/xilinx/installs
+XDG_SESSION_ID=536
+XDG_RUNTIME_DIR=/run/user/1624
+XDG_DATA_DIRS=/work/stu/dyzhang/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+VRST_HOME=/opt/cadence/INCISIVE151
+VMR_MODE_FLAG=64
+VERDI_HOME=/opt/cad/synopsys/installs/verdi/Q-2020.03-SP2
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64
+SYNOPSYS_HOME=/opt/cad/synopsys/installs
+SYNOPSYS=/opt/cad/synopsys/installs
+SSH_TTY=/dev/pts/78
+SSH_CONNECTION=10.8.105.118 4094 10.8.6.4 22
+SSH_CLIENT=10.8.105.118 4094 22
+SPECTRE_HOME=/opt/cad/cadence/installs/SPECTRE201
+SPECTRE_DEFAULTS=-E
+SPECMAN_HOME=/opt/cadence/INCISIVE151/components/sn
+SPECMAN_DIR=/opt/cadence/INCISIVE151/components/sn/
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REPO_URL=https://mirrors.tuna.tsinghua.edu.cn/git/git-repo
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+QRC_HOME=/opt/cad/cadence/installs/QUANTUS201
+PYTHONPATH=/usr/lib64/python2.7/site-packages/mpich-3.2
+PVSHOME=/opt/cad/cadence/installs/PVS201
+PKG_CONFIG_PATH=/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1/lib/pkgconfig:/usr/lib64/mpich-3.2/lib/pkgconfig
+OVA_UUM=0
+OPENSOURCE_HOME=/opt/cad/opensource/installs
+OPAM_SWITCH_PREFIX=/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1
+OPAMNOENVNOTICE=true
+OCAML_TOPLEVEL_PATH=/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1/lib/toplevel
+OA_LINK_DIR=/work/tools/cadence/installs/ICADVM201/oa_v22.60.043
+MPI_SYSCONFIG=/etc/mpich-3.2-x86_64
+MPI_SUFFIX=_mpich-3.2
+MPI_PYTHON_SITEARCH=/usr/lib64/python2.7/site-packages/mpich-3.2
+MPI_MAN=/usr/share/man/mpich-3.2
+MPI_LIB=/usr/lib64/mpich-3.2/lib
+MPI_INCLUDE=/usr/include/mpich-3.2-x86_64
+MPI_HOME=/usr/lib64/mpich-3.2
+MPI_FORTRAN_MOD_DIR=/usr/lib64/gfortran/modules/mpich-3.2-x86_64
+MPI_COMPILER=mpich-3.2-x86_64
+MPI_BIN=/usr/lib64/mpich-3.2/bin
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+MFLAGS=
+MAKE_TERMOUT=/dev/pts/78
+MAKE_TERMERR=/dev/pts/78
+MAKELEVEL=1
+MAKEFLAGS=
+LOADEDMODULES=mpi/mpich-3.2-x86_64
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_TIME=en_US.UTF-8
+LC_PAPER=en_US.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_MONETARY=en_US.UTF-8
+LC_MEASUREMENT=en_US.UTF-8
+LC_ALL=C
+IPYTHONDIR=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt/.ipython
+INCISIVDIR=/opt/cadence/INCISIVE151
+HISTCONTROL=ignoredups
+CDS_Netlisting_Mode=Analog
+CDS_LIC_FILE=5280@166.111.77.2
+CDS_INST_DIR=/opt/cad/cadence/installs/ICADVM201
+CDSHOME=/opt/cad/cadence/installs/ICADVM201
+CAML_LD_LIBRARY_PATH=/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1/lib/stublibs:/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1/lib/ocaml/stublibs:/work/stu/dyzhang/.opam/ocaml-base-compiler.4.06.1/lib/ocaml
+CAD_HOME=/opt/cad
+CADENCE_HOME=/opt/cad/cadence/installs
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`_}
+BAG_WORK_DIR=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt
+BAG_TEMP_DIR=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt/BAGTMP
+BAG_TECH_CONFIG_DIR=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt/cds_ff_mpt
+BAG_PYTHON=/work/stu/yzhang/tools/anaconda3/bin/python3
+BAG_JUPYTER=/work/stu/yzhang/tools/anaconda3/bin/jupyter-notebook
+BAG_FRAMEWORK=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt/BAG_framework
+BAG_CONFIG_PATH=/work/stu/yzhang/process/bag/BAG2_cds_ff_mpt/bag_config.yaml
+ANSYS_HOME=/opt/cad/ansys
+AMSHOME=
+0
+45
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/params.vh
+1670232405 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/../../../dv/dpram64.v
+1670486097 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/../../../dv/hehe_tb.sv
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/macros/verilog/sky130_sram_1kbyte_1rw1r_32x256_8.v
+1670057009 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/hehe.v
+1670485874 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/rcu.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/physical_regfile.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/new_fu.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/new_alu.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/ins_buffer.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/gshare.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/fifo_tmp.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/fifo.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/fetch.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/fake_icache.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/excep_ctrl.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/decode.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/csr.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/counter_tmp.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/counter_rob.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/counter.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/units/btb.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/pipeline/frontend.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/pipeline/backend.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/mmu/ptw.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/mmu/mmu_sv39.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/mmu/leaf_pte_check.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/nblsu.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/lsq.v
+1670139121 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/lr.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/cu.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/agu.v
+1670138674 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/lsu/ac.v
+1669984010 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/core_empty/core_empty.v
+1670057711 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/l1icache_32.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/l1dcache.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/cacheblock/std_dffr.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/cacheblock/std_dffe.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/cacheblock/sky130_sram_1rw1r_64x256_8.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/cache/cacheblock/sky130_sram_1kbyte_1rw1r_32x256_8.v
+1670138416 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/bus_arbiter.v
+1669882304 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/.././src/params.vh
+1670139176 /work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/../rtl/lab_1/src/../flist.f
+1602321813 /opt/cad/synopsys/installs/verdi/Q-2020.03-SP2/share/PLI/VCS/LINUX64/verdi.tab
+1602321640 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/vcsdp_lite.tab
+4
+1602321632 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libvirsim.so
+1602321632 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/liberrorinf.so
+1602321640 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libsnpsmalloc.so
+1602321632 /opt/cad/synopsys/installs/vcs/Q-2020.03-SP2/linux64/lib/libvfs.so
+1670486102 simv.daidir
+-1 partitionlib
