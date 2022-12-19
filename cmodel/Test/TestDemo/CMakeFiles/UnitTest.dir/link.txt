@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/UnitTest.dir/Test/testAddition.cc.o  -o UnitTest  libadditionLib.a -lgtest -lgtest_main -lpthread 

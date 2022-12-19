@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/stu/dyzhang/projects/riosclass_zdy/cmodel/Test/TestDemo/src/Addition.cc
+Addition.hpp
+/work/stu/dyzhang/projects/riosclass_zdy/cmodel/Test/TestDemo/src/Addition.hpp
+
+/work/stu/dyzhang/projects/riosclass_zdy/cmodel/Test/TestDemo/src/Addition.hpp
+

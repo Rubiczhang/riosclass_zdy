@@ -1,0 +1,63 @@
+version: (200506)
+
+available memory: 64M bytes
+used memory: 704512 bytes [need 688K bytes if disable swap]
+
+used block: 30 [memory(30) file(0)]
+                 [ 8K(22) 64K(8) { total 688K bytes } ]
+overhead: (9555) bytes for (30) blocks [Average: (318) bytes/block]
+
+write  => 0(times) 0K(bytes) [0K bytes to file]
+read   => 8(times) 276K(bytes) [47K bytes compressed data from file]
+access => 387832(times) 3083M(bytes)
+          [hit ratio: 99.9979%]
+
+time: write(0) read(0)  unit: second
+
+swap file directory: (/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/Verdi-SXLog)
+used swap file number: (10)
+
+
+
+swap file manager:
+arrSize: (256)
+idxCnt: (11)
+closeHead: (1)
+closeTail: (10)
+openCnt: (8)
+fid(10): fd(1073741830) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/decode.v.tdc)
+	size(18713) lastModTime(1670485301) curModTime(1670485301)
+	mode(rb)	hot(0) cool(8) pos(0)
+fid(9): fd(0) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/frontend.v.tdc)
+	size(7972) lastModTime(1670485301) curModTime(1670485301)
+	mode(rb)	hot(0) cool(0) pos(0)
+fid(8): fd(1073741829) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/rcu.v.tdc)
+	size(20709) lastModTime(1670485302) curModTime(1670485302)
+	mode(rb)	hot(10) cool(7) pos(0)
+fid(7): fd(1073741828) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/backend.v.tdc)
+	size(14755) lastModTime(1670485301) curModTime(1670485301)
+	mode(rb)	hot(8) cool(6) pos(0)
+fid(6): fd(1073741827) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/core_empty.v.tdc)
+	size(14263) lastModTime(1670485301) curModTime(1670485301)
+	mode(rb)	hot(7) cool(5) pos(0)
+fid(5): fd(1073741826) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/hehe.v.tdc)
+	size(14424) lastModTime(1670485302) curModTime(1670485302)
+	mode(rb)	hot(6) cool(4) pos(0)
+fid(4): fd(1073741825) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/dpram64.v.tdc)
+	size(4086) lastModTime(1670485302) curModTime(1670485302)
+	mode(rb)	hot(5) cool(2) pos(0)
+fid(3): fd(0) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/params.vh.tdc)
+	size(5355) lastModTime(1670485301) curModTime(1670485301)
+	mode(rb)	hot(0) cool(0) pos(0)
+fid(2): fd(24) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/Verdi-SXLog/_swap_0001#134874118#50934)
+	size(0) lastModTime(0) curModTime(1670485432)
+	mode(w+b)	hot(4) cool(1) pos(0)
+fid(1): fd(1073741824) fileName(/work/stu/dyzhang/projects/riosclass_zdy/verilog/dv/simv.daidir/kdb.elab++/work.lib++/hehe_tb.sv.tdc)
+	size(8065) lastModTime(1670485302) curModTime(1670485302)
+	mode(rb)	hot(2) cool(0) pos(0)
+fid(0): fd(0) fileName(NULL)
+	mode(NULL)	hot(0) cool(0) pos(0)
+==================================================
+mySelf(16693d70) pre(166857c0) next(0)
+version(200506)
+date(Aug 14 2020 02:30:18)

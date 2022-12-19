@@ -6,3 +6,5 @@
 *.lst
 *.vcd
 *.gtkw
+*/runs/*/results/
+./spike
